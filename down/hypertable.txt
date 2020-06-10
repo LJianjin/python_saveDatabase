@@ -1,0 +1,2 @@
+forextick_audchf
+forextick_audjpy

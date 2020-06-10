@@ -1,0 +1,27 @@
+HistData.com (c) 2012
+File: DAT_ASCII_AUDCAD_M1_202001.csv Status Report
+
+Gap of 66s found between 20200101173550 and 20200101173703.
+Gap of 74s found between 20200102171612 and 20200102171732.
+Gap of 194s found between 20200105171935 and 20200105172255.
+Gap of 73s found between 20200105172526 and 20200105172646.
+Gap of 112s found between 20200105174105 and 20200105174303.
+Gap of 82s found between 20200112170244 and 20200112170413.
+Gap of 73s found between 20200112170534 and 20200112170654.
+Gap of 98s found between 20200112171654 and 20200112171839.
+Gap of 80s found between 20200112172648 and 20200112172814.
+Gap of 90s found between 20200113170425 and 20200113170601.
+Gap of 102s found between 20200119170223 and 20200119170412.
+Gap of 154s found between 20200119170522 and 20200119170802.
+Gap of 72s found between 20200120131557 and 20200120131715.
+Gap of 70s found between 20200122171729 and 20200122171846.
+Gap of 62s found between 20200126170220 and 20200126170329.
+Gap of 60s found between 20200126170807 and 20200126170913.
+Gap of 67s found between 20200126173840 and 20200126173954.
+Gap of 77s found between 20200126174907 and 20200126175031.
+Gap of 75s found between 20200126233602 and 20200126233723.
+Gap of 64s found between 20200129170109 and 20200129170220.
+Gap of 70s found between 20200129170521 and 20200129170637.
+
+Average tick interval: 5222 miliseconds.
+Maximum tick interval found: 194070 miliseconds.
